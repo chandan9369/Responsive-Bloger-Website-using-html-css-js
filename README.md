@@ -26,11 +26,13 @@ Users should be able to:
 ### Screenshot
 
 **Mobile View :**
+
 ![ss-2](./images/ss-2.png)
 
 ---
 
 **Desktop View :**
+
 ![ss-1](./images/ss-1.png)
 
 ### Links
