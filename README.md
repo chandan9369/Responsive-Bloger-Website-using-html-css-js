@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/chandan9369/Responsive-Bloger-Website-using-html-css-js)
 - Live Site URL: [Add live site URL here](https://bloger-website-by-chandan-keshari.netlify.app/)
 
 ### Built with
